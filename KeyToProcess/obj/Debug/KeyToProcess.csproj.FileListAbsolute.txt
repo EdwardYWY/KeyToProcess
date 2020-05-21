@@ -1,0 +1,6 @@
+C:\Users\Vanis\source\repos\KeyToProcess\KeyToProcess\bin\Debug\KeyToProcess.exe.config
+C:\Users\Vanis\source\repos\KeyToProcess\KeyToProcess\bin\Debug\KeyToProcess.exe
+C:\Users\Vanis\source\repos\KeyToProcess\KeyToProcess\bin\Debug\KeyToProcess.pdb
+C:\Users\Vanis\source\repos\KeyToProcess\KeyToProcess\obj\Debug\KeyToProcess.csprojAssemblyReference.cache
+C:\Users\Vanis\source\repos\KeyToProcess\KeyToProcess\obj\Debug\KeyToProcess.exe
+C:\Users\Vanis\source\repos\KeyToProcess\KeyToProcess\obj\Debug\KeyToProcess.pdb
