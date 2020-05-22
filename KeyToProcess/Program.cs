@@ -10,7 +10,7 @@ namespace KeyToProcess
     class Program
     {
         [DllImport("user32.dll")]
-        public static extern IntPtr PostMessage(IntPtr hWnd, uint Msg, IntPtr wParam, IntPtr lParam);        
+        public static extern bool PostMessage(IntPtr hWnd, uint Msg, IntPtr wParam, IntPtr lParam);        
 
         static void Main(string[] args)
         {
